@@ -1,0 +1,3 @@
+[submodule "themes/hugo-noir"]
+	path = themes/hugo-noir
+	url = git@github.com:kitbur/hugo-noir.git

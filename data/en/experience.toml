@@ -1,0 +1,31 @@
+[[experience]]
+  role = "Senior Developer"
+  company = "Tech Solutions Inc."
+  company_link = "https://www.techsolutions.com" # Add company URL here
+  period = "Jan 2020 - Present"
+  country = "USA" # New field for region/country
+  # description = "Longer description of the role..." # Optional detailed description
+  responsibilities = [
+    "Developed and maintained web applications.",
+    "Collaborated with cross-functional teams.",
+    "Led junior developers."
+  ]
+  technologies = ["Go", "Docker", "Kubernetes", "React"]
+
+[[experience]]
+  role = "Software Engineer"
+  company = "Innovate LLC"
+  # company_link = "" # Omit or leave blank if no link
+  period = "Jun 2018 - Dec 2019"
+  country = "Canada"
+  responsibilities = [
+    "Contributed to full-stack development projects.",
+    "Participated in code reviews and agile sprints."
+  ]
+  technologies = ["Python", "Django", "PostgreSQL"]
+
+[[voluntary]]
+role = "Community Lead"
+organization = "Lorem Foundation"
+period = "2020 - Present"
+description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis."

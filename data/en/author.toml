@@ -1,0 +1,43 @@
+name = "Your Name"
+location = "Your Location"
+description = "Description ..."
+profile_image = "/images/your-profile.jpg"
+github = "https://github.com/yourusername"
+twitter = "https://twitter.com/yourusername"
+linkedin = "https://linkedin.com/in/yourusername"
+email = "your.email@example.com"
+
+[[honors]]
+institution = "University of Excellence"
+title = "Bachelor of Computer Science"
+date = "2015 - 2019"
+
+[[honors]]
+institution = "Tech Conference"
+title = "Best Developer Award"
+date = "2021"
+
+[[certifications]]
+title = "Certified Web Developer"
+url = "https://certifications.example.com/webdev"
+date = "2020"
+
+[[certifications]]
+title = "Cloud Practitioner"
+url = "https://certifications.example.com/cloud"
+date = "2022"
+
+[voluntary]
+# [[voluntary]]
+role = "Community Lead"
+organization = "Lorem Foundation"
+period = "2020 - Present"
+description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis."
+url = "https://example.com"
+
+# [[voluntary]]
+# role = "Open Source Contributor"
+# organization = "Various Projects"
+# period = "2018 - Present"
+# description = "Contributed to multiple open source projects in the Go and JavaScript ecosystems."
+# url = "https://github.com/opensource"
